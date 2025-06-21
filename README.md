@@ -55,7 +55,6 @@ Key visualizations include:
 
 ## 📌 Next Steps (for final project)
 
-- Label data into “clear” and “unclear”
 - Apply NLP classification models (e.g., Logistic Regression, SVM)
 - Use clarity insights to support automated requirement quality checks
 
@@ -64,7 +63,7 @@ Key visualizations include:
 ## 🧑‍💻 Author
 
 **Emmanuel Isa**  
-Graduate Certificate in Big Data Analytics  
+Msc in Data Analytics  
 Nexford University
 
 ---
