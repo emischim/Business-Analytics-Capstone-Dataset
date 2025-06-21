@@ -65,9 +65,3 @@ Key visualizations include:
 **Emmanuel Isa**  
 Msc in Data Analytics  
 Nexford University
-
----
-
-## 📬 Contact
-
-For questions or suggestions, please feel free to open an issue or reach out via [LinkedIn](https://www.linkedin.com).
